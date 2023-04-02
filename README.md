@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Prática: Lista de Usuários Aprimorada
+
+Projeto realizado no curso de front-end do Awari que exemplifica como aplicar boas práticas a projetos React.js.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
